@@ -2,6 +2,11 @@ body {
 	background-color: #eee;
 }
 
+.header {
+	text-align: center;
+	padding: 30px;
+}
+
 /* add & list buttons */
 #header-buttons {
 	text-align: center;
