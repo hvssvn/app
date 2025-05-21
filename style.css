@@ -1,0 +1,37 @@
+body {
+	background-color: #eee;
+}
+
+/* add & list buttons */
+#header-buttons {
+	text-align: center;
+	padding: 20px;
+}
+
+/* submit button */
+.submit-btn {
+	text-align: center;
+	padding: 10px;
+}
+
+/* list users table */
+.table-users {
+	width: 700px;
+}
+
+/* edit & delete buttons */
+.btnDelete {
+	background-color: brown;
+	color: white;
+	border-radius: 10px;
+}
+.btnUpdate {
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+}
+
+
+.hide {
+	display: none;
+}
